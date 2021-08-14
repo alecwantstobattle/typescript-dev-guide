@@ -2,3 +2,4 @@ fetchjson/node_modules
 features/node_modules
 maps/.cache
 maps/dist
+maps/node_modules/
